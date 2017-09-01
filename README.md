@@ -817,7 +817,7 @@ ParseArticle
 <td></td> 
 <td>1</td> 
 <td>101_Object_List_qry</td> 
-<td>Needs module modMain</td> 
+<td>Creates a list of all objects in the MS Access database (Needs module modMain)</td> 
 <td></td>
 </tr> 
 <tr> 
@@ -873,28 +873,28 @@ ParseArticle
 <td></td> 
 <td>9</td> 
 <td>721_Decumulative_Value_qry</td> 
-<td></td> 
+<td>Used to test the function in modMathCumulative</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>10</td> 
 <td>803_Calendar_Style_Listing_qry</td> 
-<td></td> 
+<td>Used in the report 803_Object_Calendar_List_rpt</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>11</td> 
 <td>803a_Calendar_List_qry</td> 
-<td></td> 
+<td>Used in the sub-report 803a_Calendar_List_srp</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>12</td> 
 <td>804_Weekly_Report_qry</td> 
-<td></td> 
+<td>Used in the report 804_Weekly_Report</td> 
 <td></td>
 </tr> 
 <tr> 
@@ -908,21 +908,21 @@ ParseArticle
 <td></td> 
 <td>14</td> 
 <td>950_Leszynski_Conventions_qry</td> 
-<td></td> 
+<td>Leszynski Naming Conventions for Microsoft Solution Developers</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>15</td> 
 <td>SQL_Server_Function_Login_Name_qry</td> 
-<td></td> 
+<td>SQL Server pass-through query</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>16</td> 
 <td>SQL_Server_View_Date_Time_qry</td> 
-<td></td> 
+<td>SQL Server pass-through query</td> 
 <td></td>
 </tr> 
 </table>
