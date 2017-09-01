@@ -12,6 +12,11 @@ Various examples of code in an Access database file
 <kbd>
 <a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
 <table>
+    <caption>
+        <h2>
+            Command Line Options
+        </h2>
+    </caption>
 <tr>
 <th>OPTION</th>
 <th>DESCRIPTION</th>
@@ -85,6 +90,11 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <kbd>
 <a id="user-object-listing-reference" class="anchor" href="#object-listing-reference" aria-hidden="true"> </a>
 <table>
+    <caption>
+        <h2>
+            Object Listing Reference
+        </h2>
+    </caption>
 <tr>
 <th>Type</th>
 <th>Nbr</th>
