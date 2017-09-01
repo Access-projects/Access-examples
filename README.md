@@ -3,12 +3,89 @@
 # Microsoft Access Examples
 Various examples of code in an Access database file
 
+## Table of Contents
+- <a href="#command-line">Command Line Options</a>
+- <a href="#object-listing-reference">Object Listing Reference</a>
+
 <!DOCTYPE html>
 <html>
 <body>
 
 <kbd>
+<a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
+<table>
+<tr>
+<th>OPTION</th>
+<th>DESCRIPTION</th>
+</tr>
+<tr> 
+<td>/decompile</td> 
+<td>Undocumented command line. Will sometimes remove old code and objects from the database and make it faster.</td>
+</tr> 
+<tr> 
+<td>/excl</td> 
+<td>Opens the specified Access database for exclusive access. To open the database for shared access in a multiuser environment, omit this option. Applies to Access databases only.</td>
+</tr> 
+<tr> 
+<td>/ro</td> 
+<td>Opens the specified Access database or Access project for read-only access.</td>
+</tr> 
+<tr> 
+<td>/user user name</td> 
+<td>Starts Access by using the specified user name. Applies to Access databases only.</td>
+</tr> 
+<tr> 
+<td>/pwd password</td> 
+<td>Starts Access by using the specified password. Applies to Access databases only.</td>
+</tr> 
+<tr> 
+<td>/profile user profile</td> 
+<td>Starts Access by using the options in the specified user profile instead of the standard Windows Registry settings created when you installed Microsoft Access. This replaces the /ini option used in versions of Microsoft Access prior to Access 97 to specif</td>
+</tr> 
+<tr> 
+<td>/compact target database or target Access project</td> 
+<td>Compacts and repairs the Access database, or compacts the Access project that was specified before the /compact option, and then closes Access. If you omit a target file name following the /compact option, the file is compacted to the original name and fo</td>
+</tr> 
+<tr> 
+<td>/repair</td> 
+<td>Repairs the Access database that was specified before the /repair option, and then closes Microsoft Access. In Microsoft Access 2000 or later, compact and repair functionality is combined under /compact. The /repair option is supported for backward compat</td>
+</tr> 
+<tr> 
+<td>/convert target database</td> 
+<td>Converts a previous-version Access database or Access project to the default file format, renames the new file, and then closes Access. You must specify the source database before you use the /convert option. To view the default file format, click Options</td>
+</tr> 
+<tr> 
+<td>/x macro</td> 
+<td>Starts Access and runs the specified macro. Another way to run a macro when you open a database is to use an AutoExec macro.</td>
+</tr> 
+<tr> 
+<td>/cmd</td> 
+<td>Specifies that what follows on the command line is the value that will be returned by the Command function. This option must be the last option on the command line. You can use a semicolon (;) as an alternative to /cmd. 
+Use this option to specify a comma</td>
+</tr> 
+<tr> 
+<td>/nostartup</td> 
+<td>Starts Access without displaying the task pane (the second dialog box that you see when you start Access).</td>
+</tr> 
+<tr> 
+<td>/wrkgrp workgroup information file</td> 
+<td>Starts Access by using the specified workgroup information file.  Applies to Access databases only.
 
+C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facilities_Management_System\v_11_1\FMS.mde /user username /pwd /wrkgrp P:\gene</td>
+</tr> 
+<tr> 
+<td>/runtime</td> 
+<td>Starts Access in runtime mode for testing.  C:\Program Files\Office\MSACCESS.EXE C:\Database\database.mde /runtime</td>
+</tr> 
+</table>
+</kbd>
+
+<br>
+<br>
+<br>
+
+<kbd>
+<a id="user-object-listing-reference" class="anchor" href="#object-listing-reference" aria-hidden="true"> </a>
 <table>
 <tr>
 <th>Type</th>
