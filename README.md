@@ -1,3 +1,5 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
 [<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/aduguid/MicrosoftAccessExamples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
 
 # Microsoft Access Examples
@@ -6,8 +8,6 @@ Various examples of code in an Access database file
 ## Table of Contents
 - <a href="#cmd-line">Command Line Options</a>
 - <a href="#object-list">Object Listing Reference</a>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
 <a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
