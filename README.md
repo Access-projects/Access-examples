@@ -4,12 +4,12 @@
 Various examples of code in an Access database file
 
 ## Table of Contents
-- <a href="#command-line">Command Line Options</a>
+- <a href="#cmd-line">Command Line Options</a>
 - <a href="#object-list">Object Listing Reference</a>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
-<a id="user-cmd-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
+<a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
 <kbd>
 <table>
