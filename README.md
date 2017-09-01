@@ -5,10 +5,10 @@ Various examples of code in an Access database file
 
 ## Table of Contents
 - <a href="#command-line">Command Line Options</a>
-- <a href="#object-listing-reference">Object Listing Reference</a>
+- <a href="#object-list">Object Listing Reference</a>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
+<a id="user-cmd-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
 
 <kbd>
 <table>
@@ -87,7 +87,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <br>
 <br>
 
-<a id="user-object-listing-reference" class="anchor" href="#object-listing-reference" aria-hidden="true"> </a>
+<a id="user-object-list" class="anchor" href="#object-list" aria-hidden="true"> </a>
 
 <kbd>
 <table>
