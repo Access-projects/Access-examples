@@ -8,9 +8,8 @@ Various examples of code in an Access database file
 - <a href="#object-listing-reference">Object Listing Reference</a>
 
 
-
-<kbd>
 <a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
+<kbd>
 <table>
     <caption>
         <h2>
@@ -87,8 +86,8 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <br>
 <br>
 
-<kbd>
 <a id="user-object-listing-reference" class="anchor" href="#object-listing-reference" aria-hidden="true"> </a>
+<kbd>
 <table>
     <caption>
         <h2>
