@@ -739,7 +739,7 @@ ParseArticle
 <td></td> 
 <td>3</td> 
 <td>DATABASE_STRUCTURE_TB</td> 
-<td></td> 
+<td>Used to store the database table structure</td> 
 <td></td>
 </tr> 
 <tr> 
@@ -789,7 +789,7 @@ ParseArticle
 <td></td> 
 <td>10</td> 
 <td>tblFileList</td> 
-<td></td> 
+<td>Used to store a list of files</td> 
 <td></td>
 </tr> 
 <tr> 
