@@ -8,11 +8,12 @@ Various examples of code in an Access database file
 - <a href="#object-listing-reference">Object Listing Reference</a>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
+
 <kbd>
 <table>
     <caption>
         <h2>
-        <a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
             Command Line Options
         </h2>
     </caption>
