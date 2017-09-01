@@ -775,14 +775,14 @@ ParseArticle
 <td></td> 
 <td>8</td> 
 <td>tblContacts</td> 
-<td></td> 
+<td>Used with the Microsoft Outlook Functions</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>9</td> 
 <td>tblDefaults</td> 
-<td></td> 
+<td>Used to store defaults used in the this database</td> 
 <td></td>
 </tr> 
 <tr> 
