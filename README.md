@@ -7,9 +7,7 @@ Various examples of code in an Access database file
 - <a href="#command-line">Command Line Options</a>
 - <a href="#object-listing-reference">Object Listing Reference</a>
 
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <kbd>
 <a id="user-command-line" class="anchor" href="#command-line" aria-hidden="true"> </a>
@@ -881,5 +879,3 @@ ParseArticle
 </tr> 
 </table>
 </kbd>
-</body>
-</html>
