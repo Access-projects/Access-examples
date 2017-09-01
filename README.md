@@ -746,7 +746,7 @@ ParseArticle
 <td></td> 
 <td>4</td> 
 <td>DECUM_VAL_TB</td> 
-<td></td> 
+<td>Used to test the function in modMathCumulative</td> 
 <td></td>
 </tr> 
 
@@ -824,42 +824,42 @@ ParseArticle
 <td></td> 
 <td>2</td> 
 <td>200_Create_DATABASE_STRUCTURE_TB_qry</td> 
-<td></td> 
+<td>Used to create the MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>3</td> 
 <td>201_Create_DATABASE_STRUCTURE_TB_qry</td> 
-<td></td> 
+<td>Used to create the MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>4</td> 
 <td>202_Add_Constraint_pk001_Primary_Key_PROP_ID_qry</td> 
-<td></td> 
+<td>Used to add a constraint to a MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>5</td> 
 <td>203_Add_Column_LST_MDFD_ID_qry</td> 
-<td></td> 
+<td>Used to add a new column to a MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>6</td> 
 <td>204_Alter_Column_LST_MDFD_ID_qry</td> 
-<td></td> 
+<td>Used to alter a column in a MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
 <td></td> 
 <td>7</td> 
 <td>205_Drop_DATABASE_STRUCTURE_TB_qry</td> 
-<td></td> 
+<td>Used to drop a MS Access table using DDL</td> 
 <td></td>
 </tr> 
 <tr> 
