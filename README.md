@@ -155,7 +155,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <td></td> 
 <td>7</td> 
 <td>010_Date_Calendar_frm</td> 
-<td>Uses the calendar dll from Microsoft</td> 
+<td>Uses the calendar dll from Microsoft (only needed previous to 2007)</td> 
 <td></td>
 </tr> 
 <tr> 
