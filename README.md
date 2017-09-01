@@ -136,7 +136,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <td></td> 
 <td>4</td> 
 <td>004_DSN_Password_frm</td> 
-<td></td> 
+<td>A form to login to a DSN database connection</td> 
 <td></td>
 </tr> 
 <tr> 
@@ -269,7 +269,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <td></td> 
 <td>4</td> 
 <td>803a_Calendar_List_srp</td> 
-<td></td> 
+<td>A sub-report to 803_Object_Calendar_List_rpt</td> 
 <td></td>
 </tr> 
 <tr> 
@@ -318,7 +318,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <td></td> 
 <td>1</td> 
 <td>clsMonthCal</td> 
-<td></td> 
+<td>Calendar Class</td> 
 <td>CreateDTPControl
 <br>
 ReDraw
@@ -389,7 +389,7 @@ IsCalendar
 <td></td> 
 <td>2</td> 
 <td>modCalendar</td> 
-<td></td> 
+<td>Calendar Functions</td> 
 <td>ShowMonthCalendar
 <br>
 WindowProc
@@ -651,7 +651,7 @@ XYZToLatLong
 <td></td> 
 <td>11</td> 
 <td>modOutlook</td> 
-<td></td> 
+<td>Microsoft Outlook Functions</td> 
 <td>ImportContactsFromOutlook
 <br>
 ImportCalendarFromOutlook
