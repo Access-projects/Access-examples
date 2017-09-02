@@ -8,7 +8,7 @@ Various examples of code in an Access database file
 ## Table of Contents
 - <a href="#cmd-line">Command Line Options</a>
 - <a href="#object-list">Object Listing Reference</a>
-- <a href="#software">Software</a>
+- Software
   - [Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)
   - [Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)
 
