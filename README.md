@@ -13,6 +13,7 @@ Various examples of code in an Access database file
   - [Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)
 
 <a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
+.
 
 <kbd>
 <table>
@@ -92,6 +93,7 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <br>
 
 <a id="user-object-list" class="anchor" href="#object-list" aria-hidden="true"> </a>
+.
 
 <kbd>
 <table>
