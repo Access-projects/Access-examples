@@ -92,7 +92,6 @@ C:\Program Files\Access 2K Runtime\Office\MSACCESS.EXE P:\general\Database\Facil
 <br>
 
 <a id="user-object-list" class="anchor" href="#object-list" aria-hidden="true"> </a>
-.
 
 <kbd>
 <table>
