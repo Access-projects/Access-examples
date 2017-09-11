@@ -11,7 +11,9 @@ Various examples of code in an Access database file
  - Software
    - [Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)
    - [Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)
-
+ - Books
+   - [O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)
+   
 <a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
 <kbd>
