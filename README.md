@@ -5,6 +5,8 @@
 # Microsoft Access Examples
 Various examples of code in an Access database file
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
+
 ## Table of Contents
  - <a href="#cmd-line">Command Line Options</a>
  - <a href="#object-list">Object Listing Reference</a>
