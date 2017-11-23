@@ -3,6 +3,9 @@
 [<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/aduguid/MicrosoftAccessExamples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
 
 # Microsoft Access Examples
+
+![current_build Office_2010](https://img.shields.io/badge/current_build-Office_2010-red.svg)
+
 Various examples of code in an Access database file
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
