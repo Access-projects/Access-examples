@@ -4,7 +4,7 @@
 
 # Microsoft Access Examples
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
-![current_build Office_2010](https://img.shields.io/badge/current_build-Office_2010-red.svg)
+![current_build Office_2013](https://img.shields.io/badge/current_build-Office_2013-red.svg)
 
 Various examples of code in an [Microsoft Access database file](https://github.com/aduguid/MicrosoftAccessExamples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
 
