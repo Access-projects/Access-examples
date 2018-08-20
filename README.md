@@ -9,14 +9,18 @@
 Various examples of code in an [Microsoft Access database file](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
 
 ## Table of Contents
+ - <a href="#references">References</a>
  - <a href="#cmd-line">Command Line Options</a>
  - <a href="#object-list">Object Listing Reference</a>
- - Software
-   - [Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)
-   - [Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)
- - Books
-   - [O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)
-   
+
+<a id="user-content-references" class="anchor" href="#references" aria-hidden="true"> </a>
+## References
+|Link                        |Type                 |
+|:-------------------------------|:--------------------------|
+|[Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)|Software|
+|[Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)|Software|
+|[O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)|Book|
+
 <a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
 <kbd>
