@@ -15,7 +15,7 @@ Various examples of code
  - <a href="#object-list">Object Listing Reference</a>
 
 <a id="user-content-references" class="anchor" href="#references" aria-hidden="true"> </a>
-## References
+### References
 |Link                        |Type                 |
 |:-------------------------------|:--------------------------|
 |[Microsoft Access Find & Replace Add-in](http://www.rickworld.com/products.html)|Software|
