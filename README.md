@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
 
-Various examples of code 
+Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
 [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file").
 
 ## Table of Contents
