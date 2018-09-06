@@ -3,6 +3,7 @@
 [<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/Office-projects/Access-examples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
 
 # Microsoft Access Examples
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AnthonyDuguid)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
 
