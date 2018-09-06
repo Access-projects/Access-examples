@@ -9,7 +9,7 @@
 
 Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
 
-[![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file").
+[![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
 
 ## Table of Contents
  - <a href="#references">References</a>
