@@ -1,6 +1,6 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
-[<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/Office-projects/Access-examples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
+<img align="left" src="Images/ReadMe/App.png" width="64px" >
 
 # Microsoft Access Examples
 Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
@@ -8,7 +8,8 @@ Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Mi
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
-[![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
+[![GitHub issues](https://img.shields.io/github/issues/Office-projects/Access-examples.svg)](https://github.com/Office-projects/Access-examples/issues)
+[![Github All Releases](https://img.shields.io/github/downloads/Office-projects/Access-examples/total.svg)](https://github.com/Office-projects/Access-examples/releases)
 
 ## Table of Contents
  - <a href="#references">References</a>
