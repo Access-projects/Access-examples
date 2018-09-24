@@ -3,12 +3,11 @@
 [<img align="left" src="Images/ReadMe/App.png" width="64px" >](https://github.com/Office-projects/Access-examples/blob/master/Access_Example_VBA.accdb?raw=true "Download File")
 
 # Microsoft Access Examples
+Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
-
-Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
-
 [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Access-examples/raw/master/Access_Example_VBA.accdb?raw=true "Download the MS Access file")
 
 ## Table of Contents
