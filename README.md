@@ -23,7 +23,7 @@ Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Mi
 |[Microsoft Access Merge & Diff](http://www.accdbmerge.net/download)|Software|
 |[O'Reilly Access Database Design & Programming, 3rd Edition](http://shop.oreilly.com/product/9780596002732.do)|Book|
 
-<a id="user-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
+<a id="user-content-cmd-line" class="anchor" href="#cmd-line" aria-hidden="true"> </a>
 
 <kbd>
 <table>
