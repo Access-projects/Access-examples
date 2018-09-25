@@ -9,7 +9,7 @@ Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Mi
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
 [![GitHub issues](https://img.shields.io/github/issues/Office-projects/Access-examples.svg)](https://github.com/Office-projects/Access-examples/issues)
-[![Github All Releases](https://img.shields.io/github/downloads/Office-projects/Access-examples/total.svg)](https://github.com/Office-projects/Access-examples/releases)
+<!--[![Github All Releases](https://img.shields.io/github/downloads/Office-projects/Access-examples/total.svg)](https://github.com/Office-projects/Access-examples/releases)-->
 
 ## Table of Contents
  - <a href="#references">References</a>
