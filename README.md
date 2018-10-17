@@ -5,7 +5,7 @@
 # Microsoft Access Examples
 Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)
+<!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 ![current_build Office_2016](https://img.shields.io/badge/current_build-Office_2016-red.svg)
 [![Latest Release](https://img.shields.io/github/release/Office-projects/Access-examples.svg?label=latest%20release)](https://github.com/Office-projects/Access-examples/releases)
